@@ -1,5 +1,6 @@
 
 import Layout from "@/components/layout/Layout";
+import { WhatsAppButton } from "@/components/ui/whatsapp-button";
 import { HeroSection } from "@/components/ui/hero-section";
 import { SectionHeading } from "@/components/ui/section-heading";
 import { Button } from "@/components/ui/button";

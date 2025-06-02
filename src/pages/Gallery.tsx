@@ -414,22 +414,7 @@ const products: Product[] = [
     category: "kitchen-units",
     href: "/gallery/modern-kitchen-island",
   },
-  {
-    id: 202,
-    title: "Marble Effect Resin Kitchen Counter",
-    description: "Elegant kitchen counter with sophisticated marble-effect resin top and modern cabinetry.",
-    image: "/lovable-uploads/5ca2b50e-80a1-4682-8723-1939d0448c2e.png",
-    category: "kitchen-units",
-    href: "/gallery/marble-effect-resin-counter",
-  },
-  {
-    id: 203,
-    title: "Luxury Resin Kitchen Worktop",
-    description: "Premium kitchen worktop featuring stunning resin detail and coordinated cabinetry design.",
-    image: "/lovable-uploads/0e079e63-5b8b-4caa-b566-4424ed5f344b.png",
-    category: "kitchen-units",
-    href: "/gallery/luxury-resin-kitchen-worktop",
-  },
+ 
   {
     id: 204,
     title: "Contemporary Kitchen Installation",
@@ -438,14 +423,7 @@ const products: Product[] = [
     category: "kitchen-units",
     href: "/gallery/contemporary-kitchen-installation",
   },
-  {
-    id: 205,
-    title: "Premium Kitchen Design",
-    description: "High-end kitchen design featuring custom resin countertops and premium finishes throughout.",
-    image: "/lovable-uploads/6a327655-e4d2-4a4e-b9ef-a28275b3faba.png",
-    category: "kitchen-units",
-    href: "/gallery/premium-kitchen-design",
-  },
+  
   {
     id: 206,
     title: "Custom Epoxy River Countertops | Unique Resin Designs",
