@@ -304,46 +304,7 @@ const products: Product[] = [
   },
   
   // Updated Dining sets with images from previous prompt (keeping IDs)
-  {
-    id: 101,
-    title: "Glass & Wood Edge Dining Table",
-    description: "Beautiful dining table with glass top and natural wood live edge, perfect for elegant dining spaces.",
-    image: "/lovable-uploads/152ced57-9091-4112-9465-e45b21a7a5c0.png",
-    category: "dining-sets",
-    href: "/gallery/glass-wood-edge-dining-table",
-  },
-  {
-    id: 102,
-    title: "Blue Conference Table",
-    description: "Striking conference table with blue resin center perfect for professional meeting spaces.",
-    image: "/lovable-uploads/531ec820-10b9-4127-a28c-46c9e2d00adf.png",
-    category: "dining-sets",
-    href: "/gallery/blue-conference-table",
-  },
-  {
-    id: 103,
-    title: "Turquoise Accent Coffee Table",
-    description: "Stunning coffee table with vibrant turquoise resin flowing through solid wood.",
-    image: "/lovable-uploads/10ea8268-068b-4ff9-83b1-e62d204462ce.png", 
-    category: "dining-sets",
-    href: "/gallery/turquoise-accent-table",
-  },
-  {
-    id: 104,
-    title: "Black & Gold Accent Table",
-    description: "Elegant accent table with bold black resin and golden wood grain pattern.",
-    image: "/lovable-uploads/33c495bf-1070-4b2c-a346-522115ffd9d2.png",
-    category: "dining-sets",
-    href: "/gallery/black-gold-accent-table",
-  },
-  {
-    id: 105,
-    title: "Live Edge Coffee Table",
-    description: "Natural wood coffee table with stunning live edge and elegant detailing.",
-    image: "/lovable-uploads/e8728b06-bf24-464c-87e1-d9a78b7163f0.png",
-    category: "dining-sets",
-    href: "/gallery/live-edge-coffee-table",
-  },
+  
   {
     id: 106,
     title:"Modern Epoxy River Dining Table Set",
@@ -360,41 +321,52 @@ const products: Product[] = [
     category: "dining-sets",
     href: "/gallery/live-edge-coffee-table",
   },
+  {
+    id: 108,
+    title: "The River Flow Dining Table",
+    description: " This unique piece transforms any dining space into a work of art, perfect for modern and rustic interiors alike.",
+    image: "/lovable-uploads/din1.jpeg",
+    category: "dining-sets",
+    href: "/gallery/live-edge-coffee-table",
+  },
+  {
+    id: 109,
+    title: "The River Flow Dining Table",
+    description: " This unique piece transforms any dining space into a work of art, perfect for modern and rustic interiors alike.",
+    image: "/lovable-uploads/din2.jpeg",
+    category: "dining-sets",
+    href: "/gallery/live-edge-coffee-table",
+  },
+  {
+    id: 110,
+    title: "The River Flow Dining Table",
+    description: " This unique piece transforms any dining space into a work of art, perfect for modern and rustic interiors alike.",
+    image: "/lovable-uploads/din3.jpeg",
+    category: "dining-sets",
+    href: "/gallery/live-edge-coffee-table",
+  },
   // Updated Bar tables with new images
+  
   {
-    id: 3,
-    title: "Minimalist Console with Black Resin",
-    description: "Elegant console with light wood and sleek black resin inlay perfect for entryway or home office.",
-    image: "/lovable-uploads/b58de193-7363-4890-8b6f-d53a6dfb83f4.png",
-    category: "bar-tables",
-    href: "/gallery/minimalist-console-black-resin",
-  },
-  {
-    id: 301,
-    title: "Black Pattern Office Desk",
-    description: "Modern office desk with striking black resin pattern and wooden base, perfect for a stylish workspace.",
-    image: "/lovable-uploads/29383c99-5232-46df-9434-46c62cb50d50.png", 
-    category: "bar-tables",
-    href: "/gallery/black-pattern-office-desk",
-  },
-  {
-    id: 302,
-    title: "Teal Wave Desk",
-    description: "Stunning workspace desk featuring a teal blue resin wave flowing through beautiful natural wood.",
-    image: "/lovable-uploads/3ff7d57d-733e-435d-a396-6097c5bb7f89.png",
-    category: "bar-tables",
-    href: "/gallery/teal-wave-desk",
-  },
-  {
-    id: 303,
-    title: "Glass Accent Dining Table",
-    description: "Live edge dining table with glass accent and natural wood, perfect for modern dining spaces.",
-    image: "/lovable-uploads/152ced57-9091-4112-9465-e45b21a7a5c0.png",
+    id: 304,
+    title: "Custom Epoxy River Bar Tops & Counters | Unique Home Bars",
+    description: "Create a unique focal point in your home bar with our custom epoxy river bar tops and counters. ",
+    image: "/lovable-uploads/bar1.jpeg",
     category: "bar-tables",
     href: "/gallery/glass-accent-dining-table",
   },
+   
   {
-    id: 304,
+    id: 305,
+    title: "Custom Epoxy River Bar Tops & Counters | Unique Home Bars",
+    description: "Create a unique focal point in your home bar with our custom epoxy river bar tops and counters. ",
+    image: "/lovable-uploads/bar2.jpeg",
+    category: "bar-tables",
+    href: "/gallery/glass-accent-dining-table",
+  },
+   
+  {
+    id: 306,
     title: "Custom Epoxy River Bar Tops & Counters | Unique Home Bars",
     description: "Create a unique focal point in your home bar with our custom epoxy river bar tops and counters. ",
     image: "/lovable-uploads/bar3.jpeg",
@@ -404,25 +376,8 @@ const products: Product[] = [
   
   
   
-  
   // Updated Kitchen units with new images
-  {
-    id: 201,
-    title: "Modern Kitchen Island with Resin Countertop",
-    description: "Sleek kitchen island featuring a stunning resin countertop with dramatic black and white marbling.",
-    image: "/lovable-uploads/f6668249-2887-4fb2-b9aa-7e1672a95583.png",
-    category: "kitchen-units",
-    href: "/gallery/modern-kitchen-island",
-  },
- 
-  {
-    id: 204,
-    title: "Contemporary Kitchen Installation",
-    description: "Full modern kitchen installation with resin countertops and integrated appliances.",
-    image: "/lovable-uploads/bd247dcf-3dcd-444f-bff4-81199eaa1a36.png",
-    category: "kitchen-units",
-    href: "/gallery/contemporary-kitchen-installation",
-  },
+  
   
   {
     id: 206,
@@ -437,6 +392,30 @@ const products: Product[] = [
     title: " Epoxy River Cabinet Doors & Designs | Modern Kitchen Solutions",
     description: "Elevate your kitchen with our custom epoxy river cabinet doors and designs.",
     image: "/lovable-uploads/kitchen5.jpeg",
+    category: "kitchen-units",
+    href: "/gallery/premium-kitchen-design",
+  },
+  {
+    id: 208,
+    title: " Epoxy River Cabinet Doors & Designs | Modern Kitchen Solutions",
+    description: "Elevate your kitchen with our custom epoxy river cabinet doors and designs.",
+    image: "/lovable-uploads/kit1.jpeg",
+    category: "kitchen-units",
+    href: "/gallery/premium-kitchen-design",
+  },
+  {
+    id: 209,
+    title: " Epoxy River Cabinet Doors & Designs | Modern Kitchen Solutions",
+    description: "Elevate your kitchen with our custom epoxy river cabinet doors and designs.",
+    image: "/lovable-uploads/kit2.jpeg",
+    category: "kitchen-units",
+    href: "/gallery/premium-kitchen-design",
+  },
+  {
+    id: 210,
+    title: " Epoxy River Cabinet Doors & Designs | Modern Kitchen Solutions",
+    description: "Elevate your kitchen with our custom epoxy river cabinet doors and designs.",
+    image: "/lovable-uploads/kit3.jpeg",
     category: "kitchen-units",
     href: "/gallery/premium-kitchen-design",
   },
